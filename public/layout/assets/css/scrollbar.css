@@ -1,0 +1,30 @@
+/* Estilo para las barras de desplazamiento en WebKit (Chrome, Safari) */
+::-webkit-scrollbar {
+  width: 12px; /* Ancho de la scrollbar vertical */
+  height: 12px; /* Altura de la scrollbar horizontal */
+}
+
+::-webkit-scrollbar-track {
+  background: transparent; /* Fondo del track de la scrollbar */
+  border-radius: 10px; /* Bordes redondeados del track */
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.3); /* Color del thumb de la scrollbar */
+  border-radius: 10px; /* Bordes redondeados del thumb */
+  border: 3px solid transparent; /* Espacio alrededor del thumb para que no esté pegado al track */
+  background-clip: padding-box; /* Para que el borde se vea correctamente */
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(
+    0,
+    0,
+    0,
+    0.5
+  ); /* Color del thumb cuando el usuario pasa el mouse sobre él */
+}
+
+/* Para Firefox (no hay soporte completo para personalización de scrollbars) */
+scrollbar-width: thin; /* Estilo de scrollbar delgado en Firefox */
+scrollbar-color: rgba(0, 0, 0, 0.3) transparent; /* Color del thumb y del track */
