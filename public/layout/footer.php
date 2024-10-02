@@ -2,7 +2,7 @@
   <div class="container">
     <!-- Footer 4 column -->
     <div class="row">
-      <div class="col-xxl-5 col-lg-5 col-md-7">
+      <div class="col-xxl-5 col-lg-7 col-md-7">
         <div class="mb-7 mb-xl-0">
           <div class="mb-4">
             <a href="index.php" rel="noopener noreferrer">
@@ -22,9 +22,10 @@
               <h5 class="mb-0">
                 DIRECCI&Oacute;N&#58;
               </h5>
-              <small>
-                CALLE 104 N&#176; 14A &#45; 45 &#47; OFICINA 402&#46; <br /> CENTRO EMPRESARIAL 104 PH&#46; <br />
-                BOGOT&#193; D&#46;C&#46; &#40;COLOMBIA&#41;
+              <small class="text-dark">
+                CALLE 104 N&#176; 14A &#45; 45 &#47; OFICINA &#45; 402&#46; CENTRO EMPRESARIAL &#45; 104 PH&#46;
+                <br />
+                BOGOT&#193; D&#46;C&#46; &#45; &#40;COLOMBIA&#41;
               </small>
             </div>
           </div>
@@ -39,9 +40,9 @@
               <h5 class="mb-0">
                 DIRECCI&Oacute;N&#58;
               </h5>
-              <small>
-                CARRERA 56 N&#176; 19 &#45; 45 &#47; LOCALIDAD <br /> PUENTE ARANDA&#46; <br />
-                BOGOT&#193; D&#46;C&#46; &#40;COLOMBIA&#41;
+              <small class="text-dark">
+                CARRERA 56 N&#176; 19 &#45; 45 &#47; LOCALIDAD &#45; PUENTE ARANDA&#46; <br />
+                BOGOT&#193; D&#46;C&#46; &#45; &#40;COLOMBIA&#41;
               </small>
             </div>
           </div>
@@ -57,7 +58,7 @@
               <h5 class="mb-0">
                 TEL&Eacute;FONO&#58;
               </h5>
-              <small>
+              <small class="text-dark">
                 Oficina Principal&#58;
                 &#40;&#43;320&#41; 40&#8209;78 <br />
                 Contabilidad&#58;
@@ -87,7 +88,7 @@
               </h5>
 
               <small>
-                <a href="mailto:ing.comercialcostos@concremack.com" rel="noopener noreferrer" class="text-reset">
+                <a href="mailto:ing.comercialcostos@concremack.com" rel="noopener noreferrer" class="text-dark">
                   ing.comercialcostos@concremack.com
                 </a>
               </small>
@@ -96,9 +97,9 @@
           </p>
         </div>
       </div>
-      <div class="offset-xxl-1 col-xxl-6 col-lg-6 offset-md-1 col-md-4">
+      <div class="offset-xxl-1 col-xxl-6 col-lg-3 offset-md-1 col-md-4">
         <div class="row" id="ft-links">
-          <div class="col-lg-4 col-12">
+          <div class="col-lg-12 col-12">
             <div class="position-relative">
               <div class="mb-3 pb-2 d-flex justify-content-between border-bottom border-bottom-lg-0">
                 <h5>
@@ -113,88 +114,37 @@
               <div class="collapse d-lg-block" id="collapseLanding" data-bs-parent="#ft-links">
                 <ul class="list-unstyled mb-0 py-3 py-lg-0">
                   <li class="mb-2">
-                    <a href="index.php" rel="noopener noreferrer" class="text-decoration-none text-reset">
+                    <a href="index.php" rel="noopener noreferrer" class="text-decoration-none text-dark">
                       INICIO
                     </a>
                   </li>
                   <li class="mb-2">
-                    <a href="#" rel="noopener noreferrer" class="text-decoration-none text-reset">
+                    <a href="#" rel="noopener noreferrer" class="text-decoration-none text-dark">
                       NOSOTROS
                     </a>
                   </li>
                   <li class="mb-2">
-                    <a href="#" rel="noopener noreferrer" class="text-decoration-none text-reset">
+                    <a href="#" rel="noopener noreferrer" class="text-decoration-none text-dark">
                       LINK 3
                     </a>
                   </li>
                   <li class="mb-2">
-                    <a href="#" rel="noopener noreferrer" class="text-decoration-none text-reset">
+                    <a href="#" rel="noopener noreferrer" class="text-decoration-none text-dark">
                       LINK 4
                     </a>
                   </li>
                   <li class="mb-2">
-                    <a href="#" rel="noopener noreferrer" class="text-decoration-none text-reset">
+                    <a href="#" rel="noopener noreferrer" class="text-decoration-none text-dark">
                       LINK 5
                     </a>
                   </li>
                   <li class="mb-2">
-                    <a href="#" rel="noopener noreferrer" class="text-decoration-none text-reset">
-                      LINK 6
+                    <a href="#" rel="noopener noreferrer" class="text-decoration-none text-dark">
+                      MAQUINARÍA Y EQUIPOS
                     </a>
                   </li>
                 </ul>
               </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-12">
-            <div class="collapse d-lg-block" id="collapseAccounts" data-bs-parent="#ft-links">
-              <ul class="list-unstyled mb-0 py-3 py-lg-0">
-                <li class="mb-2">
-                  <a href="#" rel="noopener noreferrer" class="text-decoration-none text-reset">
-                  </a>
-                </li>
-                <li class="mb-2">
-                  <a href="#" rel="noopener noreferrer" class="text-decoration-none text-reset">
-                  </a>
-                </li>
-                <li class="mb-2">
-                  <a href="#" rel="noopener noreferrer" class="text-decoration-none text-reset">
-                  </a>
-                </li>
-                <li class="mb-2">
-                  <a href="#" rel="noopener noreferrer" class="text-decoration-none text-reset">
-                  </a>
-                </li>
-                <li class="mb-2">
-                  <a href="#" rel="noopener noreferrer" class="text-decoration-none text-reset">
-                  </a>
-                </li>
-                <li class="mb-2">
-                  <a href="#" rel="noopener noreferrer" class="text-decoration-none text-reset">
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </div>
-          <div class="col-lg-4 col-12">
-            <div class="mb-3 pb-2 d-flex justify-content-between border-bottom border-bottom-lg-0 position-relative">
-              <h5>
-                CENTRO DE AYUDA
-              </h5>
-              <a class="d-block d-lg-none stretched-link text-inherit" data-bs-toggle="collapse"
-                href="#collapseResources" rel="noopener noreferrer" role="button" aria-expanded="false"
-                aria-controls="collapseResources">
-                <i class="bi bi-chevron-down"></i>
-              </a>
-            </div>
-            <div class="collapse d-lg-block" id="collapseResources" data-bs-parent="#ft-links">
-              <ul class="list-unstyled mb-0 py-3 py-lg-0">
-                <li class="mb-2">
-                  <a href="#" rel="noopener noreferrer" class="text-decoration-none text-reset">
-                    CONTACTOS
-                  </a>
-                </li>
-              </ul>
             </div>
           </div>
         </div>
@@ -204,21 +154,23 @@
   <div class="container mt-7 mb-3">
     <div class="row align-items-center">
       <div class="col-md-9">
-        <div class="small mb-3 mb-md-0">
+        <div class="small mb-3 mb-md-0 text-dark">
           CopyRight&#8218; &copy; &#124; <script type="text/javascript" charset="UTF-8">
           document.write(new Date().getFullYear());
-          </script> &#124; <span class="text-primary"><a href="#" rel="noopener noreferrer">Página Oficial Del
+          </script> &#124; <span class="text-dark"><a href="#" rel="noopener noreferrer" class="text-dark">Página
+              Oficial Del
             </a></span>
           <span><strong><b><code>CONCREMACK</code></b></strong></span> &#124;
-          <span class="text-primary"><a href="#" rel="noopener noreferrer">TODOS LOS DERECHOS RESERVADOS&#46;</a></span>
+          <span class="text-dark"><a href="#" rel="noopener noreferrer" class="text-dark">TODOS LOS DERECHOS
+              RESERVADOS&#46;</a></span>
         </div>
       </div>
       <div class="col-md-3">
         <div class="text-md-end d-flex align-items-center justify-content-md-end">
           <div class="dropdown">
-            <button class="btn btn-light btn-icon rounded-circle d-flex align-items-center bd-theme" type="button"
-              aria-expanded="false" data-bs-toggle="dropdown" aria-label="Toggle theme (auto)">
-              <i class="bi theme-icon-active"></i>
+            <button class="btn btn-light btn-icon rounded-circle d-flex align-items-center bd-theme text-dark"
+              type="button" aria-expanded="false" data-bs-toggle="dropdown" aria-label="Toggle theme (auto)">
+              <i class="bi theme-icon-active text-dark"></i>
               <span class="visually-hidden bs-theme-text">
                 CAMBIAR TEMA
               </span>
@@ -254,19 +206,19 @@
             </ul>
           </div>
           <div class="ms-3 d-flex gap-2">
-            <a href="#" rel="noopener noreferrer" class="text-reset btn btn-facebook btn-icon">
+            <a href="#" rel="noopener noreferrer" class="text-dark btn btn-facebook btn-icon">
               <i class="fa-brands fa-facebook"></i>
             </a>
-            <a href="#" rel="noopener noreferrer" class="text-reset btn btn-instagram btn-icon">
+            <a href="#" rel="noopener noreferrer" class="text-dark btn btn-instagram btn-icon">
               <i class="fa-brands fa-instagram"></i>
             </a>
-            <a href="#" rel="noopener noreferrer" class="text-reset btn btn-youtube btn-icon">
+            <a href="#" rel="noopener noreferrer" class="text-dark btn btn-youtube btn-icon">
               <i class="fa-brands fa-youtube"></i>
             </a>
-            <a href="#" rel="noopener noreferrer" class="text-reset btn btn-linkedin btn-icon">
+            <a href="#" rel="noopener noreferrer" class="text-dark btn btn-linkedin btn-icon">
               <i class="fa-brands fa-linkedin"></i>
             </a>
-            <a href="#" rel="noopener noreferrer" class="text-reset btn btn-whatsapp btn-icon">
+            <a href="#" rel="noopener noreferrer" class="text-dark btn btn-whatsapp btn-icon">
               <i class="fa-brands fa-whatsapp"></i>
             </a>
           </div>

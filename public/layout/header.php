@@ -24,13 +24,13 @@
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#" rel="noopener noreferrer">
-                LINK 2
+                NOSOTROS
               </a>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" rel="noopener noreferrer" id="navbarDropdown" role="button"
                 data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                LINK 3 - MENÚ DESPLEGABLES
+                LÍNEA DE NEGOCIO
               </a>
               <div class="dropdown-menu dropdown-menu-md" aria-labelledby="navbarDropdown">
                 <a class="dropdown-item mb-3 text-body" href="#" rel="noopener noreferrer">
@@ -76,7 +76,7 @@
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#" rel="noopener noreferrer">
-                LINK 4
+                MAQUINARÍA Y EQUIPOS
               </a>
             </li>
           </ul>
