@@ -82,8 +82,10 @@ $index_panel = [
     media="all" />
   <link href="assets/libs/swiper/swiper-bundle.min.css" media="screen" rel="stylesheet" type="text/css" media="all" />
   <link href="assets/css/scrollbar.css" media="screen" rel="stylesheet" type="text/css" media="all" />
-  <link href="" media="screen" rel="stylesheet" type="text/css" media="all" />
-  <link href="" media="screen" rel="stylesheet" type="text/css" media="all" />
+  <link href="assets/libs/intl-tel-input/build/css/intlTelInput.min.css" media="screen" rel="stylesheet" type="text/css"
+    media="all" />
+  <link href="assets/libs/glightbox/dist/css/glightbox.min.css" media="screen" rel="stylesheet" type="text/css"
+    media="all" />
   <link href="" media="screen" rel="stylesheet" type="text/css" media="all" />
   <link href="" media="screen" rel="stylesheet" type="text/css" media="all" />
 
