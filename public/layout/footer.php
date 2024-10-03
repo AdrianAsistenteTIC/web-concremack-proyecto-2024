@@ -160,7 +160,10 @@
           </script> &#124; <span class="text-dark"><a href="#" rel="noopener noreferrer" class="text-dark">Página
               Oficial Del
             </a></span>
-          <span><strong><b><code>CONCREMACK</code></b></strong></span> &#124;
+          <span>
+            <image src="assets/images/logo/Logo-Concremack-266.png" width="150" class="text-inverse" alt="CONCREMACK"
+              title="CONCREMACK" />
+          </span> &#124;
           <span class="text-dark"><a href="#" rel="noopener noreferrer" class="text-dark">TODOS LOS DERECHOS
               RESERVADOS&#46;</a></span>
         </div>

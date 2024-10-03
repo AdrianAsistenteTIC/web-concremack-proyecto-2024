@@ -1,7 +1,7 @@
 <?php
 // Datos de la página de inicio - definidos de manera estática
 $index_panel = [
-    'titulo' => 'CONCREMACK'
+    'titulo' => 'Web Oficial Del CONCREMACK'
 ];
 ?>
 
@@ -12,7 +12,7 @@ $index_panel = [
   <meta name="format-detection" content="telephone=no" />
   <meta http-equiv="Content-Language" lang="es-CO" />
   <meta name="robots" content="all" />
-  <meta name="author" content="CONCREMACK" />
+  <meta name="author" content="Página Oficial Del CONCREMACK" />
   <meta name="geo.placename" content="Acaci&aacute;s, Meta, Colombia." />
   <meta name="HandheldFriendly" content="True" />
   <meta name="MobileOptimized" content="320" />
@@ -33,6 +33,18 @@ $index_panel = [
   <title data-rh="true">
     <?php echo htmlspecialchars($index_panel['titulo']); ?>
   </title>
+  <meta property="og:title" content="Web Oficial Del CONCREMACK" />
+  <meta property="og:type" content="website" />
+  <link rel="canonical" href="" />
+
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="application-name" content="CONCREMACK" />
+  <meta name="apple-mobile-web-app-title" content="CONCREMACK" />
+
+  <meta name="msapplication-navbutton-color" content="#FFFFFF" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="msapplication-starturl" content="/" />
   <!--===============================================================================================-->
   <!-- FONTS AWESOME LINK -->
   <link href="assets/fonts-awesome/css/all.css" rel="stylesheet" type="text/css" media="all" />
