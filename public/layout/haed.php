@@ -17,10 +17,10 @@ $index_panel = [
   <meta name="HandheldFriendly" content="True" />
   <meta name="MobileOptimized" content="320" />
   <!--===============================================================================================-->
-  <meta name="theme-color" content="#D50033" />
-  <meta name="msapplication-TileColor" content="#D50033" />
-  <meta name="msapplication-navbutton-color" content="#D50033" />
-  <meta name="apple-mobile-web-app-status-bar-style" content="#D50033" />
+  <meta name="theme-color" content="#D50032" />
+  <meta name="msapplication-TileColor" content="#D50032" />
+  <meta name="msapplication-navbutton-color" content="#D50032" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="#D50032" />
   <!--===============================================================================================-->
   <!-- Favicon -->
   <link rel="shortcut icon" type="image/x-icon" href="assets/images/logo/ICO-Concremack.ico" />
