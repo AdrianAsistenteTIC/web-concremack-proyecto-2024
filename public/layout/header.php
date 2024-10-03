@@ -33,7 +33,7 @@
                 LÍNEA DE NEGOCIO
               </a>
               <div class="dropdown-menu dropdown-menu-md" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item mb-3 text-body" href="#" rel="noopener noreferrer">
+                <a class="dropdown-item mb-3 text-dark" href="#" rel="noopener noreferrer">
                   <div class="d-flex align-items-center">
                     <i class="fa-solid fa-angles-right fs-4 text-danger"></i>
                     <div class="ms-3 lh-1">
@@ -46,7 +46,7 @@
                     </div>
                   </div>
                 </a>
-                <a class="dropdown-item mb-3 text-body" href="#" rel="noopener noreferrer">
+                <a class="dropdown-item mb-3 text-dark" href="#" rel="noopener noreferrer">
                   <div class="d-flex align-items-center">
                     <i class="fa-solid fa-angles-right fs-4 text-danger"></i>
                     <div class="ms-3 lh-1">
@@ -59,7 +59,7 @@
                     </div>
                   </div>
                 </a>
-                <a class="dropdown-item mb-3 text-body" href="#" rel="noopener noreferrer">
+                <a class="dropdown-item mb-3 text-dark" href="#" rel="noopener noreferrer">
                   <div class="d-flex align-items-center">
                     <i class="fa-solid fa-angles-right fs-4 text-danger"></i>
                     <div class="ms-3 lh-1">
