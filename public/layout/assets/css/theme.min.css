@@ -1877,6 +1877,14 @@
  * Copyright 2011-2023 The Bootstrap Authors
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+@font-face {
+  font-family: 'Montserrat-SemiBold';
+  src: url('../fonts/fonts/Montserrat-SemiBold.ttf');
+}
+@font-face {
+  font-family: 'OPTIStainesXtraBoldExtend';
+  src: url('../fonts/fonts/OPTIStainesXtraBoldExtend.otf');
+}
 :root,
 [data-bs-theme='light'] {
   --bs-blue: #8b3dff;
@@ -1944,9 +1952,8 @@
   --bs-dark-border-subtle: #64748b;
   --bs-white-rgb: 255, 255, 255;
   --bs-black-rgb: 2, 6, 23;
-  --bs-font-sans-serif: 'Public Sans', sans-serif;
-  --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas,
-    'Liberation Mono', 'Courier New', monospace;
+  --bs-font-sans-serif: 'Montserrat-SemiBold', headline, modern, sans-serif;
+  --bs-font-monospace: 'OPTIStainesXtraBoldExtend', sans-serif;
   --bs-gradient: linear-gradient(
     180deg,
     hsla(0, 0%, 100%, 0.15),
