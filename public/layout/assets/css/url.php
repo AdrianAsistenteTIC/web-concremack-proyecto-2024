@@ -8,7 +8,7 @@
 </head>
 
 <body>
-  <a href="../fonts/fonts/Montserrat-SemiBold.ttf"></a>
+  <a href="../fonts/fonts/Sequel-100-Wide-95.ttf"></a>
 </body>
 
 </html>

@@ -1,5 +1,4 @@
 ﻿@charset "UTF-8";
-@import url('../../css2');
 .text-reset:hover {
   color: var(--bs-primary) !important;
 }
@@ -1882,8 +1881,8 @@
   src: url('../fonts/fonts/Montserrat-SemiBold.ttf');
 }
 @font-face {
-  font-family: 'OPTIStainesXtraBoldExtend';
-  src: url('../fonts/fonts/OPTIStainesXtraBoldExtend.otf');
+  font-family: 'Sequel-100-Wide-95';
+  src: url('../fonts/fonts/Sequel-100-Wide-95.ttf');
 }
 :root,
 [data-bs-theme='light'] {
