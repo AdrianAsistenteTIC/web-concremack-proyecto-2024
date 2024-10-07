@@ -86,7 +86,16 @@
             TITULO
           </h2>
           <p class="text-white-50 px-lg-7 mb-5" style="text-align: justify;">
-            COMENTARIO
+          <figure class="text-center">
+            <blockquote class="blockquote">
+              <p style="text-align: justify;">
+                COMENTARIO
+              </p>
+            </blockquote>
+            <figcaption class="blockquote-footer text-white">
+              AUTOR <cite title="Source Title">USUARIO</cite>
+            </figcaption>
+          </figure>
           </p>
         </div>
       </div>
@@ -103,7 +112,16 @@
             TITULO
           </h2>
           <p class="text-white-50 px-lg-7 mb-5" style="text-align: justify;">
-            COMENTARIO
+          <figure class="text-center">
+            <blockquote class="blockquote">
+              <p style="text-align: justify;">
+                COMENTARIO
+              </p>
+            </blockquote>
+            <figcaption class="blockquote-footer text-white">
+              AUTOR <cite title="Source Title">USUARIO</cite>
+            </figcaption>
+          </figure>
           </p>
         </div>
       </div>
@@ -125,7 +143,16 @@
               SUBTITULO
             </h2>
             <p class="lead mb-0" style="text-align: justify;">
-              COMENTARIO
+            <figure class="text-center">
+              <blockquote class="blockquote">
+                <p style="text-align: justify;">
+                  COMENTARIO
+                </p>
+              </blockquote>
+              <figcaption class="blockquote-footer text-dark">
+                AUTOR <cite title="Source Title">USUARIO</cite>
+              </figcaption>
+            </figure>
             </p>
           </div>
 
@@ -192,13 +219,13 @@
           data-breakpoints='{"480": {"slidesPerView": 1}, "768": {"slidesPerView": 1}, "1024": {"slidesPerView": 1}}'>
           <div class="swiper-wrapper pb-6 mx-auto">
             <div class="swiper-slide">
-              <image src="assets/images/service/project-small-img-1.jpg" class="img-fluid rounded-3">
+              <image src="assets/images/service/project-small-img-1.jpg" class="img-fluid rounded-3" />
             </div>
             <div class="swiper-slide">
-              <image src="assets/images/service/project-small-img-1.jpg" class="img-fluid rounded-3">
+              <image src="assets/images/service/project-small-img-1.jpg" class="img-fluid rounded-3" />
             </div>
             <div class="swiper-slide">
-              <image src="assets/images/service/project-small-img-1.jpg" class="img-fluid rounded-3">
+              <image src="assets/images/service/project-small-img-1.jpg" class="img-fluid rounded-3" />
             </div>
             <!-- Add more slides as needed -->
           </div>
@@ -224,7 +251,16 @@
             TITULO
           </h2>
           <p class="mb-0 text-body" style="text-align: justify;">
-            COMENTARIO
+          <figure class="text-center">
+            <blockquote class="blockquote">
+              <p style="text-align: justify;">
+                COMENTARIO
+              </p>
+            </blockquote>
+            <figcaption class="blockquote-footer text-dark">
+              AUTOR <cite title="Source Title">USUARIO</cite>
+            </figcaption>
+          </figure>
           </p>
         </div>
       </div>
