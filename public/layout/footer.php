@@ -119,27 +119,27 @@
                     </a>
                   </li>
                   <li class="mb-2">
-                    <a href="#" rel="noopener noreferrer" class="text-decoration-none text-dark">
+                    <a href="index1.php" rel="noopener noreferrer" class="text-decoration-none text-dark">
                       NOSOTROS
                     </a>
                   </li>
                   <li class="mb-2">
-                    <a href="#" rel="noopener noreferrer" class="text-decoration-none text-dark">
-                      LINK 3
+                    <a href="index2.php" rel="noopener noreferrer" class="text-decoration-none text-dark">
+                      LINK 1 - MENÚ DESPLEGABLES
                     </a>
                   </li>
                   <li class="mb-2">
-                    <a href="#" rel="noopener noreferrer" class="text-decoration-none text-dark">
-                      LINK 4
+                    <a href="index3.php" rel="noopener noreferrer" class="text-decoration-none text-dark">
+                      LINK 2 - MENÚ DESPLEGABLES
                     </a>
                   </li>
                   <li class="mb-2">
-                    <a href="#" rel="noopener noreferrer" class="text-decoration-none text-dark">
-                      LINK 5
+                    <a href="index4.php" rel="noopener noreferrer" class="text-decoration-none text-dark">
+                      LINK 3 - MENÚ DESPLEGABLES
                     </a>
                   </li>
                   <li class="mb-2">
-                    <a href="#" rel="noopener noreferrer" class="text-decoration-none text-dark">
+                    <a href="index5.php" rel="noopener noreferrer" class="text-decoration-none text-dark">
                       MAQUINARÍA Y EQUIPOS
                     </a>
                   </li>
@@ -156,7 +156,7 @@
       <div class="col-md-9">
         <div class="small mb-3 mb-md-0 text-dark">
           CopyRight&#8218; &copy; &#124; <script type="text/javascript" charset="UTF-8">
-          document.write(new Date().getFullYear());
+            document.write(new Date().getFullYear());
           </script> &#124; <span class="text-dark"><a href="#" rel="noopener noreferrer" class="text-dark">Página
               Oficial Del
             </a></span>

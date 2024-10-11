@@ -23,7 +23,7 @@
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#" rel="noopener noreferrer">
+              <a class="nav-link" href="index1.php" rel="noopener noreferrer">
                 NOSOTROS
               </a>
             </li>
@@ -33,7 +33,7 @@
                 LÍNEA DE NEGOCIO
               </a>
               <div class="dropdown-menu dropdown-menu-md" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item mb-3 text-dark" href="#" rel="noopener noreferrer">
+                <a class="dropdown-item mb-3 text-dark" href="index2.php" rel="noopener noreferrer">
                   <div class="d-flex align-items-center">
                     <i class="fa-solid fa-angles-right fs-4 text-danger"></i>
                     <div class="ms-3 lh-1">
@@ -46,7 +46,7 @@
                     </div>
                   </div>
                 </a>
-                <a class="dropdown-item mb-3 text-dark" href="#" rel="noopener noreferrer">
+                <a class="dropdown-item mb-3 text-dark" href="index3.php" rel="noopener noreferrer">
                   <div class="d-flex align-items-center">
                     <i class="fa-solid fa-angles-right fs-4 text-danger"></i>
                     <div class="ms-3 lh-1">
@@ -59,7 +59,7 @@
                     </div>
                   </div>
                 </a>
-                <a class="dropdown-item mb-3 text-dark" href="#" rel="noopener noreferrer">
+                <a class="dropdown-item mb-3 text-dark" href="index4.php" rel="noopener noreferrer">
                   <div class="d-flex align-items-center">
                     <i class="fa-solid fa-angles-right fs-4 text-danger"></i>
                     <div class="ms-3 lh-1">
@@ -75,13 +75,13 @@
               </div>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#" rel="noopener noreferrer">
+              <a class="nav-link" href="index5.php" rel="noopener noreferrer">
                 MAQUINARÍA Y EQUIPOS
               </a>
             </li>
           </ul>
           <form class="d-flex mt-3 mt-lg-0" role="search">
-            <a href="#" class="btn btn-danger" rel="noopener noreferrer">
+            <a href="index6.php" class="btn btn-danger" rel="noopener noreferrer">
               <i class="fa-solid fa-headset"></i> CONTACTOS
             </a>
           </form>
