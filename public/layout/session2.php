@@ -19,14 +19,6 @@
             </span>
           </span>
         </div>
-        <div class="d-flex flex-column gap-3 mx-lg-8">
-          <h1 class="mb-0">
-            TITULO
-          </h1>
-          <p class="mb-0" style="text-align: justify;">
-            COMENTARIO.
-          </p>
-        </div>
       </div>
     </div>
   </div>
