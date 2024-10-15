@@ -10,7 +10,7 @@
       <div class="offcanvas offcanvas-start offcanvas-nav" style="width: 20rem">
         <div class="offcanvas-header">
           <a href="index.php" rel="noopener noreferrer" class="text-inverse">
-            <image src="assets/images/logo/logo-empresa/Recurso-10Logo-Concremack-largo-BN.png" alt="CONCREMACK"
+            <image src="assets/images/logo/Logo-Concremack-266.png" alt="CONCREMACK"
               title="CONCREMACK" />
           </a>
           <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>

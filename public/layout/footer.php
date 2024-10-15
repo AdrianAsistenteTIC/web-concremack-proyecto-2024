@@ -170,44 +170,6 @@
       </div>
       <div class="col-md-3">
         <div class="text-md-end d-flex align-items-center justify-content-md-end">
-          <div class="dropdown">
-            <button class="btn btn-light btn-icon rounded-circle d-flex align-items-center bd-theme text-dark"
-              type="button" aria-expanded="false" data-bs-toggle="dropdown" aria-label="Toggle theme (auto)">
-              <i class="bi theme-icon-active text-dark"></i>
-              <span class="visually-hidden bs-theme-text">
-                CAMBIAR TEMA
-              </span>
-            </button>
-            <ul class="dropdown-menu dropdown-menu-end shadow" aria-labelledby="bs-theme-text">
-              <li>
-                <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="light"
-                  aria-pressed="false">
-                  <i class="bi theme-icon bi-sun-fill"></i>
-                  <span class="ms-2">
-                    OTROS
-                  </span>
-                </button>
-              </li>
-              <li>
-                <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="dark"
-                  aria-pressed="false">
-                  <i class="bi theme-icon bi-moon-stars-fill"></i>
-                  <span class="ms-2">
-                    NEGRO
-                  </span>
-                </button>
-              </li>
-              <li>
-                <button type="button" class="dropdown-item d-flex align-items-center active" data-bs-theme-value="auto"
-                  aria-pressed="true">
-                  <i class="bi theme-icon bi-circle-half"></i>
-                  <span class="ms-2">
-                    AUTOMATICO
-                  </span>
-                </button>
-              </li>
-            </ul>
-          </div>
           <div class="ms-3 d-flex gap-2">
             <a href="#" rel="noopener noreferrer" class="text-dark btn btn-facebook btn-icon">
               <i class="fa-brands fa-facebook"></i>
